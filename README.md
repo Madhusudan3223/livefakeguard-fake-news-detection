@@ -45,7 +45,7 @@
 ## 🌐 Try the Web App
 
 🖥️ **Live App:**  
-[https://livefakeguard-fake-news-detection.streamlit.app](https://livefakeguard-fake-news-detection.streamlit.app)
+[https://livefakeguard-fake-news-detection.streamlit.app](https://livefakeguard-fake-news-detection-eknyx8uixfzgbqsyuzi7zy.streamlit.app/)
 
 📋 Steps:
 - Get your free NewsAPI key from [https://newsapi.org](https://newsapi.org)
